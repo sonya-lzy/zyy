@@ -1,6 +1,3 @@
-```bash
-q
-q!
 ## 项目概述
 基于C++实现的逆波兰表示法（Reverse Polish Notation）计算器，支持基本四则运算和高级数学函数。
 
